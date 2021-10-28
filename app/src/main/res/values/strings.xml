@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">SoftwareEngineeringProjekt</string>
+    <string name="todo" />
+    <string name="neuesZertifikat" />
+    <string name="zertifikate">ZERTIFIKATE</string>
+    <string name="information">INFORMATIONEN</string>
+    <string name="kontaktdaten">Kontaktdaten</string>
+    <string name="datenschutzbestimmungen">Datenschutzbestimmungen</string>
+    <string name="backbutton">backButton</string>
+    <string name="kontaktframe">kontaktFrame</string>
+    <string name="datenschutzframe">datenschutzFrame</string>
+    <string name="informationframe">informationFrame</string>
+    <string name="infromationbackground">infromationBackground</string>
 </resources>
