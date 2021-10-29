@@ -33,9 +33,10 @@
     <TextView
         android:id="@+id/informationTitel"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="121dp"
         android:fontFamily="@font/anton"
         android:text="@string/information"
+        android:textAlignment="center"
         android:textColor="#FFFFFF"
         android:textSize="70sp"
         app:layout_constraintBottom_toBottomOf="parent"
